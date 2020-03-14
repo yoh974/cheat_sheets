@@ -1,4 +1,4 @@
-# Some GIT command
+# Some GIT commands
 
 Set your name globally
 > git config --global user.name "YOUR NAME"
@@ -20,4 +20,7 @@ Add distant repository
 
 Push your commits to branch master
 > git psuh -u origin master
+
+Save your credential globally
+> git config --global credential.helper cache
 
