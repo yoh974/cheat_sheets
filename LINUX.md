@@ -53,5 +53,6 @@ Send a mail
 Show file_content
 > cat filename
 
-
+Send password in your command example with pure-pw
+>  (echo $PASSWORD ; echo $PASSWORD) | pure-pw passwd $USER -m
 
