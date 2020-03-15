@@ -26,6 +26,8 @@ Create migration files
 > php bin/console make:migration
 
 Send migration to database
+> php bin/console doctrine:migrations:migrate
+
 > php bin/console migrate
 
 Add fixtures to database
