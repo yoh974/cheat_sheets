@@ -15,3 +15,24 @@ Search exact string
 Any character .
 > /.ain
 
+Select A line 
+> Shift + v
+
+select characters
+> v
+
+Cut
+> d
+
+Copy
+> y
+
+Paste before
+>P
+
+Paste After
+>p
+
+Delete a line
+> dd
+
